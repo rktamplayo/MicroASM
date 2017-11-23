@@ -28,7 +28,7 @@ To cite the paper/code, please use this BibTex:
 @inproceedings{amplayo2017aspect,
 	Author = {Reinald Kim Amplayo and Seung-won Hwang},
 	Booktitle = {ICDM},
-	Location = {Osaka, Japan},
+	Location = {New Orleans, LA},
 	Year = {2016},
 	Title = {Building Content-driven Entity Networks for Scarce Scientific Literature using Content Information},
 }
